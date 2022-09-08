@@ -3,11 +3,11 @@
 <!--
 **HRISHIKESHPAWAR/HRISHIKESHPAWAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👋 Hi, Im Hrishikesh Pawar
+👋 Hi, I am Hrishikesh Pawar
 
-🌱 I’m currently learning Fullsatck WebDevelopment{
+🌱 I’m currently learning Fullsatck WebDevelopment
+{
 
-👀
  --> HTML
  --> CSS
  --> JS
@@ -15,5 +15,5 @@
  --> Express
  --> React
  --> Node.js
- -->
+ 
 }
